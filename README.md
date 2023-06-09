@@ -1,0 +1,1 @@
+This repository is totally for the basics of dart programming which is used in flutter.
